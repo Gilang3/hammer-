@@ -97,13 +97,13 @@ mulai (){
     echo
     read lagi
     if [ $lagi = "y" ]; then
-            spam
+            Hack
     else
             echo "Terimakasih sudah menggunakan Troll project"
     fi
 }
-#spam
-spam(){
+#hack
+Baca(){
     clear
     troll
     echo
